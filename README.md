@@ -3,11 +3,11 @@
 A simple python script that will send you a text message with the IP of your Raspberry Pi when it boots and is connected to a network
 
 ## To run this program you will need:
-- [Python]
-- [A Gmail Account]
-- [A phone with SMS capabilities]
-- [Raspberry Pi with Internet]
-- [git]
+- Python
+- A Gmail Account
+- A phone with SMS capabilities
+- Raspberry Pi with Internet
+- git
 
 ## Installation
 Open terminal and type in the following commands:
@@ -19,9 +19,9 @@ cd Raspberry-Pi-startup-texter/
 nano startup_text.py
 ````
 Once the file is open in nano or any text editor that you are using, change the following values by following the comments
--[phone_number_email]
--[gmail_username]
--[gmail_password]
+- phone_number_email
+- gmail_username
+- gmail_password
 
 Save the file:
 Ctrl + X will quit the editor and you will be asked if you want to save your changes. Press Y for Yes
