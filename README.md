@@ -36,6 +36,8 @@ Go to the bottom of the file after all the comments and type in:
 ````
 @reboot sleep 300 && python /home/pi/code/Raspberry-Pi-startup-texter/startup_text.py &
 ````
+Save the file:
+Ctrl + X will quit the editor and you will be asked if you want to save your changes. Press Y for Yes
 
 You should now recieve a text message with the Pi's IP when the Pi boots up and is connected to a network.
 
